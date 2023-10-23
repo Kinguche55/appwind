@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --dark-color: #1D2144;
+  --white-color: #ffffff;
+  --glass-color: #f8f8f4;
+  --text-color: #aaacb7;
+  --button-color: #8B5CF6;
+}
+
+.App {
+  font-family: 'Quicksand', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: .5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--text-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--dark-color);
+}

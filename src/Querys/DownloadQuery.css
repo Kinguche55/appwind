@@ -1,0 +1,417 @@
+/* First Media Query */
+@media screen and (max-width: 1200px) and (min-width: 1023px) {
+
+  /* Download light Styling */
+  #light .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+    margin: auto;
+    border-radius: 2rem;
+  }
+
+  #light .Download_text h2 {
+    font-size: 1.1rem;
+  }
+
+  #light .Download_text h1 {
+    font-size: 2rem;
+  }
+
+  #light .Download_text p {
+    width: 90%;
+    font-size: 1.3rem;
+  }
+
+  #light .Download_shift .Download_image {
+    width: 50%;
+    padding-top: 4rem;
+    display: flex;
+  }
+
+  #light .Download_text .Download_buttons {
+    width: 90%;
+  }
+
+  #light .Download_buttons .Download_button1 {
+    width: 48%;
+  }
+
+  #light .Download_button1 p {
+    padding-top: .5rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--white-color);
+  }
+
+  /* Download dark Styling */
+  #dark .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+    margin: auto;
+    border-radius: 2rem;
+  }
+
+  #dark .Download_text h2 {
+    font-size: 1.1rem;
+  }
+
+  #dark .Download_text h1 {
+    font-size: 2rem;
+  }
+
+  #dark .Download_text p {
+    width: 90%;
+    font-size: 1.3rem;
+  }
+
+  #dark .Download_shift .Download_image {
+    width: 50%;
+    padding-top: 4rem;
+    display: flex;
+  }
+
+  #dark .Download_text .Download_buttons {
+    width: 90%;
+  }
+
+  #dark .Download_buttons .Download_button1 {
+    width: 48%;
+  }
+
+  #dark .Download_button1 p {
+    padding-top: .5rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--white-color);
+  }
+}
+
+/* Second Media Query */
+@media screen and (max-width: 1024px) and (min-width: 993px) {
+
+  /* Download light Styling */
+  #light .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+    margin: auto;
+    border-radius: 2rem;
+  }
+
+  #light .Download_text h2 {
+    font-size: 1.1rem;
+  }
+
+  #light .Download_text h1 {
+    font-size: 2rem;
+  }
+
+  #light .Download_text p {
+    width: 90%;
+    font-size: 1.3rem;
+  }
+
+  #light .Download_shift .Download_image {
+    width: 50%;
+    padding-top: 4rem;
+    display: flex;
+  }
+
+  #light .Download_text .Download_buttons {
+    width: 90%;
+  }
+
+  #light .Download_buttons .Download_button1 {
+    width: 48%;
+  }
+
+  #light .Download_button1 p {
+    padding-top: .5rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--white-color);
+  }
+
+  /* Download dark Styling */
+  #dark .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+    margin: auto;
+    border-radius: 2rem;
+  }
+
+  #dark .Download_text h2 {
+    font-size: 1.1rem;
+  }
+
+  #dark .Download_text h1 {
+    font-size: 2rem;
+  }
+
+  #dark .Download_text p {
+    width: 90%;
+    font-size: 1.3rem;
+  }
+
+  #dark .Download_shift .Download_image {
+    width: 50%;
+    padding-top: 4rem;
+    display: flex;
+  }
+
+  #dark .Download_text .Download_buttons {
+    width: 90%;
+  }
+
+  #dark .Download_buttons .Download_button1 {
+    width: 48%;
+  }
+
+  #dark .Download_button1 p {
+    padding-top: .5rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--white-color);
+  }
+}
+
+/* Third Media Query */
+@media screen and (max-width: 992px) and (min-width: 769px) {
+
+  /* Download light Styling */
+  #light .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+  }
+
+  #light .Download_wrap .Download_shift {
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+
+  #light .Download_shift .Download_text {
+    width: 80%;
+    margin: auto;
+  }
+
+  #light .Download_shift .Download_image {
+    width: 100%;
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+
+  #light .Download_image .Download_image1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  #light .Download_image .Download_image2 {
+    position: relative;
+    right: 0rem;
+    z-index: 0;
+  }
+
+  /* Download dark Styling */
+  #dark .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+  }
+
+  #dark .Download_wrap .Download_shift {
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+
+  #dark .Download_shift .Download_text {
+    width: 80%;
+    margin: auto;
+  }
+
+  #dark .Download_shift .Download_image {
+    width: 100%;
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+
+  #dark .Download_image .Download_image1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  #dark .Download_image .Download_image2 {
+    position: relative;
+    right: 0rem;
+    z-index: 0;
+  }
+}
+
+/* Forth Media Query */
+@media screen and (max-width: 768px) and (min-width: 601px) {
+
+  /* Download light Styling */
+  #light .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+  }
+
+  #light .Download_wrap .Download_shift {
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+
+  #light .Download_shift .Download_text {
+    width: 80%;
+    margin: auto;
+  }
+
+  #light .Download_shift .Download_image {
+    width: 100%;
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+
+  #light .Download_image .Download_image1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  #light .Download_image .Download_image2 {
+    position: relative;
+    right: 0rem;
+    z-index: 0;
+  }
+
+  /* Download dark Styling */
+  #dark .Download .Download_wrap {
+    width: 95%;
+    height: auto;
+  }
+
+  #dark .Download_wrap .Download_shift {
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+
+  #dark .Download_shift .Download_text {
+    width: 80%;
+    margin: auto;
+  }
+
+  #dark .Download_shift .Download_image {
+    width: 100%;
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+
+  #dark .Download_image .Download_image1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  #dark .Download_image .Download_image2 {
+    position: relative;
+    right: 0rem;
+    z-index: 0;
+  }
+}
+
+/* Fifth Media Query */
+@media screen and (max-width: 600px) and (min-width: 223px) {
+
+  /* Download light Styling */
+  #light .Download .Download_wrap {
+    width: 99%;
+    height: auto;
+  }
+
+  #light .Download_wrap .Download_shift {
+    width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  #light .Download_shift .Download_text {
+    width: 97%;
+    margin: auto;
+  }
+
+  #light .Download_shift .Download_image {
+    width: 97%;
+    padding-top: 4rem;
+    display: block;
+    justify-content: center;
+    margin: auto;
+  }
+
+  #light .Download_image .Download_image1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  #light .Download_image .Download_image2 {
+    position: relative;
+    right: 0rem;
+    z-index: 0;
+    display: none;
+    width: 100%;
+  }
+
+  #light .Download_text .Download_buttons {
+    width: 100%;
+    display: none;
+  }
+
+  /* Download dark Styling */
+  #dark .Download .Download_wrap {
+    width: 99%;
+    height: auto;
+  }
+
+  #dark .Download_wrap .Download_shift {
+    width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  #dark .Download_shift .Download_text {
+    width: 97%;
+    margin: auto;
+  }
+
+  #dark .Download_shift .Download_image {
+    width: 97%;
+    padding-top: 4rem;
+    display: block;
+    justify-content: center;
+    margin: auto;
+  }
+
+  #dark .Download_image .Download_image1 {
+    position: relative;
+    z-index: 0;
+  }
+
+  #dark .Download_image .Download_image2 {
+    position: relative;
+    right: 0rem;
+    z-index: 0;
+    display: none;
+    width: 100%;
+  }
+
+  #dark .Download_text .Download_buttons {
+    width: 100%;
+    display: none;
+  }
+}
